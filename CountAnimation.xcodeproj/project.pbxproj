@@ -16,6 +16,7 @@
 		3FB027232A19EE2E00AD56EF /* CountAnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB027222A19EE2E00AD56EF /* CountAnimationTests.swift */; };
 		3FB0272D2A19EE2E00AD56EF /* CountAnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB0272C2A19EE2E00AD56EF /* CountAnimationUITests.swift */; };
 		3FB0272F2A19EE2E00AD56EF /* CountAnimationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB0272E2A19EE2E00AD56EF /* CountAnimationUITestsLaunchTests.swift */; };
+		3FB0273C2A19F06900AD56EF /* CountScrollLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB0273B2A19F06900AD56EF /* CountScrollLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3FB027282A19EE2E00AD56EF /* CountAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FB0272C2A19EE2E00AD56EF /* CountAnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAnimationUITests.swift; sourceTree = "<group>"; };
 		3FB0272E2A19EE2E00AD56EF /* CountAnimationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAnimationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3FB0273B2A19F06900AD56EF /* CountScrollLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountScrollLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				3FB0270B2A19EE2900AD56EF /* AppDelegate.swift */,
 				3FB0270D2A19EE2900AD56EF /* SceneDelegate.swift */,
 				3FB0270F2A19EE2900AD56EF /* ViewController.swift */,
+				3FB0273B2A19F06900AD56EF /* CountScrollLabel.swift */,
 				3FB027112A19EE2900AD56EF /* Main.storyboard */,
 				3FB027142A19EE2E00AD56EF /* Assets.xcassets */,
 				3FB027162A19EE2E00AD56EF /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FB027102A19EE2900AD56EF /* ViewController.swift in Sources */,
+				3FB0273C2A19F06900AD56EF /* CountScrollLabel.swift in Sources */,
 				3FB0270C2A19EE2900AD56EF /* AppDelegate.swift in Sources */,
 				3FB0270E2A19EE2900AD56EF /* SceneDelegate.swift in Sources */,
 			);
